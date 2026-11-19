@@ -1,0 +1,1 @@
+print("this is f30.py")
